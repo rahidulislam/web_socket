@@ -1,2 +1,2 @@
 # web_socket
-Web Socket project
+Web Socket project for beginners
