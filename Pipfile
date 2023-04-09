@@ -16,4 +16,4 @@ channels = {extras = ["daphne"], version = "*"}
 
 [requires]
 python_version = "3.10"
-python_full_version = "3.10.9"
+python_full_version = "3.10.6"
